@@ -1,2 +1,2 @@
 # Well-Mod
-A mod adds a well
+A mod adds a well.
